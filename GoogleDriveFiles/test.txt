@@ -1,0 +1,7 @@
+AWSSDK
+ 
+The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services and build scalable solutions with Amazon S3, Amazon DynamoDB, Amazon Glacier, and more.
+ 
+AWS S3/S3 Bucket
+ 
+Amazon simple storage service (Amazon S3) is used as storage for t
